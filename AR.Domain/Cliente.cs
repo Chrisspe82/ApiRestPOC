@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AR.Domain
 {
+
     public class Cliente
     {
         [Key]
